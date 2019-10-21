@@ -40,5 +40,5 @@ SELECT location.region, COUNT(*) AS num FROM `ctg-storage.bigquery_billing_expor
 
 ## Reference
 
-* Understanding Your GCP Costs https://www.qwiklabs.com/quests/90
-* BigQuery: Qwik Start - Command Line https://google.qwiklabs.com/focuses/577
+* Understanding Your GCP Costs https://www.qwiklabs.com/quests/90?parent=catalog
+* BigQuery: Qwik Start - Command Line https://google.qwiklabs.com/focuses/577?parent=catalog

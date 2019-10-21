@@ -167,11 +167,11 @@ Routing data in between different VPC network (could be two network in two diffe
 
 ## Load Balancer
 
-* L7 load balancer (AWS ELB like) https://www.qwiklabs.com/focuses/1232
-* L3 load balancer (AWS NLB like), dispatching packets in between two different subnet in two different zones. https://www.qwiklabs.com/focuses/1250
+* L7 load balancer (AWS ELB like) https://www.qwiklabs.com/focuses/1232?parent=catalog
+* L3 load balancer (AWS NLB like), dispatching packets in between two different subnet in two different zones. https://www.qwiklabs.com/focuses/1250?parent=catalog
 
 ## Reference
 
-* Configure Network via gcloud https://www.qwiklabs.com/focuses/7140 
-  * part of quest Using the Cloud SDK Command Line. https://google.qwiklabs.com/quests/95
-* Container-Optimized OS https://www.qwiklabs.com/focuses/3414
+* Configure Network via gcloud https://www.qwiklabs.com/focuses/7140?parent=catalog
+  * part of quest Using the Cloud SDK Command Line. https://google.qwiklabs.com/quests/95?parent=catalog
+* Container-Optimized OS https://www.qwiklabs.com/focuses/3414?parent=catalog

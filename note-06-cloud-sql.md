@@ -58,7 +58,7 @@ Note that you may import CSV into newly created Cloud SQL instances, see the lab
 
 ## Reference
 
-* CloudSQL with Terraform https://www.qwiklabs.com/focuses/1215 : provide good introduction about `terraform` and `cloud SQL proxy`
-* Using Ruby on Rails with Cloud SQL for PostgreSQL https://www.qwiklabs.com/focuses/1854
+* CloudSQL with Terraform https://www.qwiklabs.com/focuses/1215?parent=catalog : provide good introduction about `terraform` and `cloud SQL proxy`
+* Using Ruby on Rails with Cloud SQL for PostgreSQL https://www.qwiklabs.com/focuses/1854?parent=catalog
 
 * Data Science on GCP https://github.com/GoogleCloudPlatform/data-science-on-gcp/

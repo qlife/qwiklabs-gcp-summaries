@@ -60,5 +60,5 @@ http://storage.googleapis.com/<your-bucket-name>/*
 
 ## Reference
 
-* Using gsutil to Perform Operations on Buckets and Objects https://google.qwiklabs.com/focuses/7530
+* Using gsutil to Perform Operations on Buckets and Objects https://google.qwiklabs.com/focuses/7530?parent=catalog
 

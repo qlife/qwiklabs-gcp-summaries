@@ -97,7 +97,7 @@ Configuring IAM Permissions with gcloud https://www.qwiklabs.com/focuses/7678 gi
 
 ## Reference
 
-* Configuring IAM Permission with gcloud https://google.qwiklabs.com/focuses/7678
-* Network and Security Admin: https://www.qwiklabs.com/focuses/1231
+* Configuring IAM Permission with gcloud https://google.qwiklabs.com/focuses/7678?parent=catalog
+* Network and Security Admin: https://www.qwiklabs.com/focuses/1231?parent=catalog
 * Service Accounts https://cloud.google.com/iam/docs/creating-managing-service-accounts
 
